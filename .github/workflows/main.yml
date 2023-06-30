@@ -18,7 +18,7 @@ jobs:
           executor_password: ${{ secrets.EXECUTOR_PASSWORD }} 
           git_repo_url: https://github.com/sonhmle/azure-devops-sample-java-prod.git
           git_repo_branch: master
-          app_id: kobiton-store:568623
+          app_id: kobiton-store:568624
           use_custom_device: 'true'
           device_name: 'Galaxy *'
           device_platform_version: '12'
